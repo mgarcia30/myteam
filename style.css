@@ -1,0 +1,33 @@
+h4{
+  color: orange;
+}
+h1{
+  color:red;
+}
+h2{
+  color: orange;
+}
+.top{
+background-color: blue;
+ text-align: center;
+}
+
+.row{
+  text-align: center;
+}
+#unicorn{
+  color: blue;
+}
+.jumbotron{
+  background-image: url(http://www.lapayne.com/prodimages/SP_CBB_001_SM.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.white
+{color:white
+}
+.pic{
+  width: 500px
+
+}
